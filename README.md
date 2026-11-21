@@ -23,17 +23,17 @@ Predicting house sale prices in King County, USA, using Linear, Polynomial and R
 
 ## Charts
 
-**1. Price vs Waterfront View**
+**1. Price vs Waterfront View** : 
 Houses with a waterfront view have a much higher median price ($1.4 million) than houses without ($450,000).
 
 ![Price vs Waterfront View](images/house_price_vs_waterfront.png)
 
-**2. Living Area vs Price**
+**2. Living Area vs Price** : 
 Bigger houses tend to sell for more, but the spread grows as size increases.
 
 ![Square Feet Above Ground vs Price](images/house_price_vs_sqft_above.png)
 
-**3. Model Comparison**
+**3. Model Comparison** : 
 The Polynomial models have the highest Test R² (0.71).
 
 ![Model Comparison](images/house_price_model_comparison.png)
